@@ -1,0 +1,33 @@
+.container{
+    width: 570px;
+    margin: 40px auto;
+    display: flex;
+    justify-content: space-between;
+}
+.buttons{
+    display: flex;
+    flex-direction: column;
+}
+.button{
+    margin-bottom: 10px;
+    background-color: #dae8ef;
+    color: #486eb2;
+    border-width: 1px;
+    border-color: #dae8ef;
+    border-radius: 10px;
+    font-size: 14px;
+    height: 40px;
+    width: 120px;
+}
+.button:hover{
+    color:#dae8ef;
+    background-color: #486eb2;
+}
+.item{
+    margin: 7px;
+    color: #07185e;
+}
+.item span{
+    margin-left: 10px;
+    font-size: 20px;
+}

@@ -1,0 +1,15 @@
+.container{
+    margin: 20px;
+}
+.item{
+    margin: 7px 0;
+    color: #07185e;
+}
+.item span{
+    margin-left: 10px;
+    font-size: 20px;
+}
+.redirect{
+    text-decoration: none;
+    color: blueviolet;
+}

@@ -1,0 +1,27 @@
+.form{
+    width: 500px;
+    margin: 20px;
+    padding: 20px;
+    background-color: rgba(188, 186, 217, 0.76);
+    border-radius: 15px;
+}
+.form div{
+    margin-bottom: 15px;
+}
+.label{
+    font-size: 14px;
+    color: #486eb2;
+}
+.button{
+    background-color: #dae8ef;
+    color: #486eb2;
+    border-width: 1px;
+    border-color: #dae8ef;
+    font-size: 14px;
+    height: 40px;
+    width: 120px;
+}
+.button:hover{
+    color:#dae8ef;
+    background-color: #486eb2;
+}
